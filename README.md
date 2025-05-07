@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm MARK Z! 👋</h1>
-<h2 align="center"><strong>Learning to Code | Future Cybersecurity Enthusiast</strong></h2>
+<h2 align="center">A CODER (you can say)</h2>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌱 **Currently Learning**: The basics of **HTML**, **CSS**, and **JavaScript** — taking it one step at a time.
+- 🌱 **Currently Learning**: The basics of **PYTHON**,**HTML**, **CSS** and **JavaScript** — taking it one step at a time.
 - 🧠 Also exploring **cybersecurity fundamentals** and understanding how the internet works.
 - 💻 **Interests**: Web development, cybersecurity, ethical hacking, and open-source learning.
 - 🎯 **Goal**: To build a strong foundation in tech and grow into a skilled cybersecurity expert.
@@ -61,4 +61,4 @@
   </a>
 </p>
 
--
+---
