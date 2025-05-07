@@ -1,36 +1,39 @@
 <h1 align="center">Hi there, I'm MARK Z! 👋</h1>
-
-<h2 align="center"><strong>A CODER (you can say)</strong></h2>
+<h2 align="center"><strong>Learning to Code | Future Cybersecurity Enthusiast</strong></h2>
 
 ---
 
 ## 🧑‍💻 About Me
 
-
-- 🌱 **Currently Learning**: HTML, CSS, JavaScript, and diving into the basics of cybersecurity.
-- 💻 **Interests**: Web Development, Cybersecurity, and exploring Open Source.
-- 🎯 **Goal**: To become a skilled full-stack developer and cybersecurity expert.
-- 💡 **Fun Fact**: I enjoy problem-solving and challenging myself with new skills.
+- 🌱 **Currently Learning**: The basics of **HTML**, **CSS**, and **JavaScript** — taking it one step at a time.
+- 🧠 Also exploring **cybersecurity fundamentals** and understanding how the internet works.
+- 💻 **Interests**: Web development, cybersecurity, ethical hacking, and open-source learning.
+- 🎯 **Goal**: To build a strong foundation in tech and grow into a skilled cybersecurity expert.
 
 ---
 
-## 🛠️ Technologies & Skills I'm Exploring
+## 🚀 Skills in Progress
 
-### 🌐 Web Development:
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+### 🌐 Web Development
+- 🟡 HTML — learning structure and tags  
+- 🟡 CSS — working on styling basics  
+- 🟡 JavaScript — starting with variables, functions, and logic  
 
-### 🔒 Cybersecurity:
-- 🔍 Learning the fundamentals of penetration testing and ethical hacking.
-- 🛡️ Exploring tools like Linux and networking basics.
+### 🔐 Cybersecurity
+- 📘 Reading about **ethical hacking**, **networking**, and **online safety**
+- 🐧 Getting comfortable using **Linux** for basic tasks
 
-### 🎨 Tools & Platforms:
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+### 🛠️ Tools I’m Using
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) (beginner level)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
 ---
+
+## 💬 A Note
+> I'm just starting out, but I'm passionate, curious, and ready to learn — one line of code at a time.
+
+
 
 ## 📈 GitHub Stats
 
@@ -58,8 +61,4 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  🌟 *"Learning never exhausts the mind."* - Leonardo da Vinci
-</p>
+-
